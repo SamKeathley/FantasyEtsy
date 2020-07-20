@@ -2,10 +2,16 @@
 
 An Etsy.com clone E-commerce site featuring creator-made items. 
 
-### Features (So Far)
+### Features
 ---
-- [] User SignUp & SignIn
-- [] Favoriting Items
-- [] Keyword Searching
-- [] Cart Review & Manipulation
-- [] Reviews
+- [ ] User SignUp & SignIn
+- [ ] User Profiles
+- [ ] Favoriting Items
+- [ ] Keyword Searching
+- [ ] Cart Review & Manipulation
+- [ ] Reviews
+
+### Technologies Used
+--- 
+- ReactJS
+- Firebase
