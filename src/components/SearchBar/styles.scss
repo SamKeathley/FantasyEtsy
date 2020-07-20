@@ -1,0 +1,24 @@
+.wrap {
+    position: relative;
+    height: 100%;
+    max-width: 1450px;
+    margin: 0 auto;
+
+
+    .searchBar {
+        position: absolute;
+        -webkit-transition: border 200ms ease-out;
+        -moz-transition: border 200ms ease-out;
+        transition: border 200ms ease-out;
+        border: 1px solid #22222226;
+        display: block;
+        font-size: 16px;
+        line-height: 28px;
+        height: 48px;
+        outline: none;
+        padding-top: 9px;
+        padding-bottom: 9px;
+        width: 100%;
+        border-radius: 30%;
+    }
+}
